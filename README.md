@@ -6,5 +6,8 @@
 
 Description: This repository contains modules for reading and plotting the output files of FADO in python. It also contains a Jupyter Notebook with a <b>quickstart</b> guide on how to run the FADO spectral synthesis code.
 
+You can start by clicking at: <a href='FADO_QuickStartGuide-GITHUB.ipynb'>Quick Start Guide</a>
+
+
 author: Jean Michel Gomes<br>
 published: 04/06/2019
