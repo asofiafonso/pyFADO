@@ -1,4 +1,4 @@
-# <font color="purple">pyFADO</font>
+# pyFADO
 
 <p align="center">
   <img align="center" src="http://spectralsynthesis.org/uploads/7/4/2/7/74273751/fado-logo-f-01.png" width="260">
